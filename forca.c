@@ -1,3 +1,5 @@
+//By Ana Clara, Ana Lídia, Geraldo Bruno, João Victor Dias, Raul, Rodolfo and Sara Mie
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
